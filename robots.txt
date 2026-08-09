@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-dbxyq9.indcuan.sbs/sitemap.xml
